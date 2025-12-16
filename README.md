@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm Harish K</h1>
+<h3 align="center">Full Stack Developer | Java | MERN | DevOps Enthusiast</h3>
+
+<p align="center">
+🚀 Passionate about building scalable web apps and backend systems  
+💡 Strong in Java, MERN Stack, SQL, APIs  
+📍 Coonoor, India  
+</p>
